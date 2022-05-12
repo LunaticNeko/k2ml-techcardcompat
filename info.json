@@ -1,0 +1,9 @@
+{
+  "name": "k2ml-basic",
+  "version": "0.0.1",
+  "title": "K2ML: Use Basic Tech Card from Krastorio2 in morelabs (Big/Mk Labs)",
+  "author": "LunaticNeko",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1", "Krastorio2 >= 1.2.25", "morelabs >= 0.0.7"],
+  "description": "Makes Big and Mk labs (More Labs) accept Basic Tech Card (Krastorio 2)"
+}
